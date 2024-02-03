@@ -1,7 +1,7 @@
 # Wordpress REST API Client
 Simple Wordpress REST API Client for Android, iOS, macOS, Windows, and Linux built in Embarcadero Delphi.
 
-Impliments viewing posts and posting posts with an image. Mainly built and tested for desktop usage on Windows but also lightly tested on macOS and Android.
+Implements viewing posts and posting posts with an image. Mainly built and tested for desktop usage on Windows but also lightly tested on macOS and Android.
 
 Find more information about the Wordpress REST API:
 
